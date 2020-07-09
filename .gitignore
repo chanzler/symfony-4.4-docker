@@ -1,1 +1,2 @@
-/src
+src/vendor
+docker/database/data
